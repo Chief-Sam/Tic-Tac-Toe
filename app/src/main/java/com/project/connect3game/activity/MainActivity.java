@@ -1,4 +1,4 @@
-package com.project.connect3game;
+package com.project.connect3game.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,6 +11,8 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.project.connect3game.R;
 
 public class MainActivity extends AppCompatActivity {
     //0: Zero    &    1: Cross    &     2: Empty
